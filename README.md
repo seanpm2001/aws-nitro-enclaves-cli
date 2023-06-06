@@ -15,7 +15,7 @@ This repository contains a collection of tools and commands used for managing th
 
   The Nitro Enclaves kernel driver is currently available in the following distro kernels:
 
-  - x86_64
+  - x86_64:
       - Amazon Linux 2 v4.14 kernel starting with kernel-4.14.198-152.320.amzn2.x86_64
       - Amazon Linux 2 v5.4 kernel starting with kernel-5.4.68-34.125.amzn2.x86_64
       - Amazon Linux 2 v5.10+ kernels (e.g. kernel-5.10.29-27.128.amzn2.x86_64)
